@@ -38,13 +38,13 @@
 // }
 
 
-#include <stdio.h>
+// #include <stdio.h>
 
-int main(){
+// int main(){
 
-int  a =30;
-int  b = 40 ;
- printf("%d", b>a);
+// int  a =30;
+// int  b = 40 ;
+//  printf("%d", b>a);
 
 
-}
+// }
